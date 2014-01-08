@@ -1,0 +1,14 @@
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\obj\Debug\ResolveAssemblyReference.cache
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\bin\Debug\CarsBL.dll
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\bin\Debug\CarsBL.pdb
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\bin\Debug\CarsInfo.dll
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\bin\Debug\CarsInfo.pdb
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\obj\Debug\CarsBL.dll
+D:\VSS NEW SYSTEM\UCE\Service\CarsBL\CarsBL\obj\Debug\CarsBL.pdb
